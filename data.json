@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "Spaghetti Bolognese",
+    "Description": "A classic Italian pasta dish with a rich tomato and meat sauce.",
+    "Price": 80,
+    "selectedOption": "MAIN"
+  },
+  {
+    "Name": "Caesar Salad",
+    "Description": "Fresh romaine lettuce with Caesar dressing, croutons, and Parmesan cheese.",
+    "Price": 50,
+    "selectedOption": "STARTER"
+  },
+  {
+    "Name": "Chocolate Cake",
+    "Description": "A decadent dessert with layers of rich chocolate and cream.",
+    "Price": 65,
+    "selectedOption": "DESSERT"
+  },
+  {
+    "Name": "Grilled Chicken Sandwich",
+    "Description": "A juicy grilled chicken breast with lettuce, tomato, and mayo on a toasted bun.",
+    "Price": 70,
+    "selectedOption": "MAIN"
+  },
+  {
+    "Name": "Minestrone Soup",
+    "Description": "A hearty Italian vegetable soup with beans, pasta, and a savory broth.",
+    "Price": 40,
+    "selectedOption": "STARTER"
+  },
+  {
+    "Name": "Panna Cotta",
+    "Description": "A creamy Italian dessert made with sweetened cream, vanilla, and a touch of fruit sauce.",
+    "Price": 55,
+    "selectedOption": "DESSERT"
+  },
+  {
+    "Name": "Margherita Pizza",
+    "Description": "A simple pizza topped with fresh tomatoes, mozzarella cheese, and basil.",
+    "Price": 90,
+    "selectedOption": "MAIN"
+  },
+  {
+    "Name": "Garlic Bread",
+    "Description": "Crispy bread with a buttery garlic spread, perfect as a side dish.",
+    "Price": 30,
+    "selectedOption": "STARTER"
+  },
+  {
+    "Name": "Tiramisu",
+    "Description": "A traditional Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+    "Price": 60,
+    "selectedOption": "DESSERT"
+  },
+  {
+    "Name": "Beef Burger",
+    "Description": "A classic beef patty topped with cheese, lettuce, tomato, and your choice of condiments.",
+    "Price": 85,
+    "selectedOption": "MAIN"
+  },
+  {
+    "Name": "French Onion Soup",
+    "Description": "A rich and flavorful soup topped with a slice of toasted bread and melted cheese.",
+    "Price": 45,
+    "selectedOption": "STARTER"
+  },
+  {
+    "Name": "Chicken Alfredo Pasta",
+    "Description": "Creamy Alfredo sauce with grilled chicken served over fettuccine pasta.",
+    "Price": 95,
+    "selectedOption": "MAIN"
+  },
+  {
+    "Name": "Lemon Tart",
+    "Description": "A tangy lemon custard in a crisp pastry shell, topped with whipped cream.",
+    "Price": 50,
+    "selectedOption": "DESSERT"
+  },
+  {
+    "Name": "Bruschetta",
+    "Description": "Grilled bread topped with a fresh mixture of tomatoes, basil, and mozzarella.",
+    "Price": 35,
+    "selectedOption": "STARTER"
+  },
+  {
+    "Name": "Beef Lasagna",
+    "Description": "Layers of pasta, ground beef, tomato sauce, and melted cheese.",
+    "Price": 100,
+    "selectedOption": "MAIN"
+  },
+  {
+  "Name": "Fries",
+  "Description": "Potatoes chopped and deep fried.",
+  "Price": 200,
+  "selectedOption": "STARTER"
+}
+]

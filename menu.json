@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Bruschetta",
+        "Description": "Toasted bread topped with diced tomatoes, garlic, basil and mozzarella cheese .",
+        "Price": 200,
+        "selectedOption": "STARTER"
+      },
+    {
+      "Name": "Lamb Chops",
+      "Description": "Tender lamp chops marinated in a mixture of olive , garlic and herbs grilled to perfection and servved  with a side roasted potatoes.",
+      "Price": 98,
+      "selectedOption": "MAIN"
+    },
+    {
+      "Name": "Fried Calamari",
+      "Description": "Crispy fried squid rings served with a tangy marinara sauce.",
+      "Price": 85,
+      "selectedOption": "STARTER"
+    },
+    {
+      "Name": "Chocolate Cake",
+      "Description": "A decadent dessert with layers of rich chocolate and cream.",
+      "Price": 65,
+      "selectedOption": "DESSERT"
+    },
+    {
+        "Name": "French Onion Soup",
+        "Description": "A rich and flavorful soup topped with a slice of toasted bread and melted cheese.",
+        "Price": 45,
+        "selectedOption": "STARTER"
+      },
+      {
+        "Name": "Chicken Alfredo Pasta",
+        "Description": "Creamy Alfredo sauce with grilled chicken served over fettuccine pasta.",
+        "Price": 95,
+        "selectedOption": "MAIN"
+      },
+      {
+        "Name": "Lemon Tart",
+        "Description": "A tangy lemon custard in a crisp pastry shell, topped with whipped cream.",
+        "Price": 50,
+        "selectedOption": "DESSERT"
+      },
+      {
+        "Name": "Bruschetta",
+        "Description": "Grilled bread topped with a fresh mixture of tomatoes, basil, and mozzarella.",
+        "Price": 35,
+        "selectedOption": "STARTER"
+      },
+      {
+        "Name": "Beef Lasagna",
+        "Description": "Layers of pasta, ground beef, tomato sauce, and melted cheese.",
+        "Price": 100,
+        "selectedOption": "MAIN"
+      }
+  ]
+  
